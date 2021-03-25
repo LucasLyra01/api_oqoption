@@ -13,6 +13,9 @@
   "author": "Lucas Lyra",
   "license": "ISC",
   "dependencies": {
+    "md5": "^2.3.0",
+    "request": "^2.88.2",
+    "websocket": "^1.0.33",
     "ws": "^7.4.4"
   }
 }
